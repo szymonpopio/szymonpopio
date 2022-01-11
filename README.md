@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Developement and Cybersecurity
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on a web project
-- 📫 How to reach me at my mail: 2004szymonp@gmail.com
+- 📫 How to reach me at my mail: szymonpopiolek04@gmail.com
